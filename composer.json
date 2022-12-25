@@ -1,0 +1,8 @@
+{
+    "require": {
+        "symfony/mailer": "^5.4",
+        "symfony/google-mailer": "^5.4",
+        "hybridauth/hybridauth": "^3.8",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
